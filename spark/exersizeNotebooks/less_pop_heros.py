@@ -25,7 +25,7 @@ num_most_obscure = most_obscure.first()["connections"]
 most_obscure = most_obscure.filter(F.col("connections") == num_most_obscure)
 # most_obscure.show()
 
-# this prints each name as its own dataframe. Could be formated a bit better.
+# this prints each name as its own dataframe. Could be formated a bit
 for i in range(most_obscure.count()):
     row = most_obscure.collect()[i]
     print(row)
