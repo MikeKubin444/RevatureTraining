@@ -1,0 +1,13 @@
+for movie id 1 (toystory)
+
+Top 10 similar movies for: Toy Story (1995)
+Toy Story 2 (1999) score: 0.9863196644836282 strength: 1116
+Ninotchka (1939) score: 0.9794424234041881 strength: 65
+Close Shave, A (1995) score: 0.9781380057819502 strength: 443
+Creature Comforts (1990) score: 0.9780902518178188 strength: 191
+Kolya (1996) score: 0.9775278645230693 strength: 106
+My Man Godfrey (1936) score: 0.977453272519626 strength: 106
+Bug's Life, A (1998) score: 0.9772120819552946 strength: 1081
+Wrong Trousers, The (1993) score: 0.9769640089563226 strength: 594
+Raiders of the Lost Ark (1981) score: 0.9762747821879435 strength: 1224
+On the Town (1949) score: 0.9759202434254273 strength: 82
