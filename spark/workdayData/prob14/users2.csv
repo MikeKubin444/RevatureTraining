@@ -1,0 +1,49 @@
+customer_id,name,city,age,signup_date
+1049,Isaac Barnes,Chicago,30,2023-07-02
+1050,Savannah Price,Dallas,27,2022-02-14
+1051,Connor Bailey,Seattle,33,2021-10-19
+1052,Victoria Cooper,Denver,41,2020-08-25
+1053,Jordan Reed,Phoenix,29,2022-06-12
+1054,Claire Foster,Miami,35,2023-03-28
+1055,Anthony Gray,Boston,38,2021-11-07
+1056,Lucy Kelly,Atlanta,26,2022-09-18
+1057,Thomas Cox,Chicago,44,2020-07-09
+1058,Eleanor Brooks,Dallas,31,2023-01-27
+1059,Owen Russell,Seattle,36,2021-04-30
+1060,Hazel Bennett,Denver,28,2022-12-01
+1061,Wyatt Murphy,Phoenix,42,2020-10-11
+1062,Nora Sanders,Miami,37,2021-06-24
+1063,Leo Jenkins,Boston,34,2023-05-03
+1064,Stella Howard,Atlanta,25,2022-01-16
+1065,Gabriel Powell,Chicago,39,2021-09-08
+1066,Aurora Flores,Dallas,32,2020-11-13
+1067,Julian Hughes,Seattle,45,2022-08-06
+1068,Scarlett Butler,Denver,30,2023-04-19
+1069,Lincoln Bryant,Phoenix,46,2021-05-20
+1070,Penelope Coleman,Miami,29,2022-03-01
+1071,Christopher Adams,Boston,40,2020-09-15
+1072,Aria White,Atlanta,27,2023-02-09
+1073,Joshua Hill,Chicago,35,2021-07-27
+1074,Layla Green,Dallas,33,2022-10-17
+1075,MissingAge,Seattle,,2021-12-01
+1076,BadDate,Denver,29,2023/14/01
+1077,ExtraColumn,Phoenix,31,2022-06-11,Extra
+1078,TooFewColumns,Miami,26
+1079,NotANumber,Boston,abc,2022-09-22
+1080,Emma Wilson,Chicago,28,2023-06-18
+1081,Liam Moore,Dallas,39,2021-03-04
+1082,Charlotte King,Seattle,34,2022-07-29
+1083,Benjamin Allen,Denver,31,2020-10-21
+1084,Amelia Wright,Phoenix,43,2021-01-10
+1085,Elijah Scott,Miami,36,2023-05-26
+1086,Harper Young,Boston,30,2022-11-14
+1087,Alexander Ward,Atlanta,47,2021-08-18
+1088,Evelyn Bell,Chicago,32,2020-06-05
+1089,Matthew Cook,Dallas,41,2022-04-12
+1090,Sofia Diaz,Seattle,29,2023-01-30
+1091,David Ross,Denver,38,2021-02-17
+1092,Grace Baker,Phoenix,27,2022-05-09
+1093,Joseph Carter,Miami,35,2020-12-22
+1094,Victoria Hall,Boston,44,2023-03-16
+1095,Andrew Turner,Atlanta,31,2021-10-02
+1096,Madison Clark,Chicago,26,2022-08-20

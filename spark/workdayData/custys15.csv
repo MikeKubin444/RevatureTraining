@@ -1,0 +1,54 @@
+customer_id,city,segment
+1001,Chicago,Consumer
+1002,Dallas,Corporate
+1003,Seattle,Home Office
+1004,Denver,Consumer
+1005,Phoenix,Corporate
+1006,Boston,Consumer
+1007,Miami,Home Office
+1008,Atlanta,Corporate
+1009,Chicago,Consumer
+1010,Seattle,Corporate
+1011,Dallas,Consumer
+1012,Denver,Home Office
+1013,Miami,Consumer
+1014,Boston,Corporate
+1015,Chicago,Home Office
+1016,Seattle,Consumer
+1017,Phoenix,Corporate
+1018,Dallas,Consumer
+1019,Denver,Corporate
+1020,Miami,Home Office
+1021,Boston,Consumer
+1022,Chicago,Corporate
+1023,Atlanta,Consumer
+1024,Seattle,Home Office
+1025,Phoenix,Consumer
+1026,Dallas,Corporate
+1027,Denver,Consumer
+1028,Boston,Home Office
+1029,Chicago,Corporate
+1030,Miami,Consumer
+1031,Seattle,Corporate
+1032,Dallas,Home Office
+1033,Atlanta,Consumer
+1034,Phoenix,Corporate
+1035,Chicago,Consumer
+1036,Denver,Corporate
+1037,Boston,Consumer
+1038,Miami,Corporate
+1039,Seattle,Home Office
+1040,Dallas,Consumer
+1041,Chicago,Corporate
+1042,Denver,Consumer
+1043,Phoenix,Home Office
+1044,Boston,Corporate
+1045,Atlanta,Consumer
+1046,Seattle,Corporate
+1047,Miami,Home Office
+1048,Chicago,Consumer
+1049,Dallas,Corporate
+1050,Seattle,Consumer
+1005,Phoenix,Corporate
+1012,Denver,Home Office
+1048,Chicago,Consumer

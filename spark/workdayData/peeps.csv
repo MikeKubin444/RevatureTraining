@@ -1,0 +1,61 @@
+id,name,age,city
+1,Alice,25,New York
+2,Bob,,Los Angeles
+3,Charlie,41,Chicago
+4,,29,Houston
+5,Eve,35,Seattle
+6,Frank,,Miami
+7,Grace,52,Boston
+8,Henry,19,Denver
+9,,44,New York
+10,Isabella,31,Phoenix
+11,Jack,,Dallas
+12,Karen,27,Atlanta
+13,Liam,38,Chicago
+14,Mia,,Seattle
+15,Noah,45,Boston
+16,Olivia,33,Miami
+17,Peter,24,Denver
+18,Quinn,,Phoenix
+19,Rachel,55,Houston
+20,Sam,28,Atlanta
+21,Tina,47,Seattle
+22,Uma,,Chicago
+23,Victor,36,Dallas
+24,Wendy,22,Boston
+25,Xavier,49,Miami
+26,Yara,,Phoenix
+27,Zach,31,Denver
+28,Aaron,58,New York
+29,Bella,26,Atlanta
+30,Caleb,,Houston
+31,Diana,42,Chicago
+32,Ethan,39,Seattle
+33,Fiona,,Boston
+34,Gavin,18,Dallas
+35,Hannah,53,Phoenix
+36,Ian,34,Miami
+37,Julia,,New York
+38,Kevin,30,Denver
+39,Lucy,46,Atlanta
+40,Mark,23,Houston
+41,Nina,,Chicago
+42,Owen,37,Seattle
+43,Paula,51,Boston
+44,Ryan,20,Dallas
+45,Sophia,40,Phoenix
+46,Tyler,,Miami
+47,Violet,32,New York
+48,Will,29,Denver
+49,Zoe,60,Atlanta
+50,Adam,27,Houston
+2,Bob,,Los Angeles
+5,Eve,35,Seattle
+9,,44,New York
+14,Mia,,Seattle
+17,Peter,24,Denver
+21,Tina,47,Seattle
+26,Yara,,Phoenix
+33,Fiona,,Boston
+41,Nina,,Chicago
+45,Sophia,40,Phoenix

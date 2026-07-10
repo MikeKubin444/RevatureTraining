@@ -1,0 +1,57 @@
+[
+  {
+    "customer": {
+      "id": 1,
+      "name": "Alice",
+      "city": "New York",
+      "orders": {
+        "total": 3,
+        "amount": 250.50
+      }
+    }
+  },
+  {
+    "customer": {
+      "id": 2,
+      "name": "Bob",
+      "city": "Chicago",
+      "orders": {
+        "total": 5,
+        "amount": 430.75
+      }
+    }
+  },
+  {
+    "customer": {
+      "id": 3,
+      "name": "Charlie",
+      "city": "Seattle",
+      "orders": {
+        "total": 2,
+        "amount": 120.00
+      }
+    }
+  },
+  {
+    "customer": {
+      "id": 4,
+      "name": "Diana",
+      "city": "Boston",
+      "orders": {
+        "total": 7,
+        "amount": 890.25
+      }
+    }
+  },
+  {
+    "customer": {
+      "id": 5,
+      "name": "Ethan",
+      "city": "Denver",
+      "orders": {
+        "total": 4,
+        "amount": 310.00
+      }
+    }
+  }
+]
